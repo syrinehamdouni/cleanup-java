@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUpActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/pagebkg1"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:context=".SignUpActivity"
+        tools:layout_editor_absoluteY="80dp">
+        <!-- Nom -->
+        <EditText
+            android:layout_width="340dp"
+            android:layout_height="50dp"
+            android:id="@+id/signup_name"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="40dp"
+            android:padding="8dp"
+            android:hint="Nom"
+            android:drawableLeft="@drawable/baseline_account_circle_24"
+            android:drawablePadding="8dp"
+            android:textColor="@color/primaryColor"
+            android:translationY="125dp"/>
+
+        <!-- Email -->
+        <EditText
+            android:layout_width="340dp"
+            android:layout_height="50dp"
+            android:id="@+id/signup_email"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20dp"
+            android:padding="8dp"
+            android:hint="Email"
+            android:drawableLeft="@drawable/baseline_email_24"
+            android:drawablePadding="8dp"
+            android:textColor="@color/primaryColor"
+            android:translationY="123dp"/>
+
+        <!-- Mot de passe -->
+        <EditText
+            android:layout_width="340dp"
+            android:layout_height="50dp"
+            android:id="@+id/signup_password"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20dp"
+            android:padding="8dp"
+            android:hint="Mot de passe"
+            android:inputType="textPassword"
+            android:drawableLeft="@drawable/baseline_lock"
+            android:drawableEnd="@drawable/eye_closed"
+            android:drawablePadding="8dp"
+            android:translationY="123dp"
+            android:textColor="@color/primaryColor"/>
+
+        <!-- Confirmation mot de passe (REMPLACE username) -->
+        <EditText
+            android:layout_width="340dp"
+            android:layout_height="50dp"
+            android:id="@+id/signup_confirm_password"
+            android:background="@drawable/button_border"
+            android:layout_marginTop="20dp"
+            android:padding="8dp"
+            android:hint="Confirmer mot de passe"
+            android:inputType="textPassword"
+            android:drawableLeft="@drawable/baseline_lock"
+            android:drawablePadding="8dp"
+            android:drawableEnd="@drawable/eye_closed"
+            android:textColor="@color/primaryColor"
+            android:translationY="122dp"/>
+
+        <!-- CheckBox des termes -->
+        <CheckBox
+            android:id="@+id/termsCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="J'accepte tous les termes et conditions"
+            android:textColor="@color/primaryColor"
+            android:textSize="16sp"
+            android:translationY="120dp"/>
+
+        <!-- Bouton créer un compte -->
+        <Button
+            android:id="@+id/signupButton"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_gradient"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="Créer Un Compte"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:translationY="100dp"
+            app:cornerRadius="20dp"
+            />
+
+        <!-- Texte "Already a user? Login" déplacé ici -->
+        <TextView
+            android:id="@+id/loginRedirectText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_text"
+            android:layout_gravity="center"
+            android:padding="8dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/ball_color_6_start"
+            android:textSize="18sp"
+            android:translationY="100dp"
+            />
+
+    </LinearLayout>
+    </ScrollView>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bagel_fat_one</item>
+        <item>@font/poppins_semibold</item>
+    </array>
+    <color name="ball_color_10_start">#87C76F</color>
+    <color name="ball_color_1_end">#DEABEF</color>
+    <color name="ball_color_1_start">#87D3DF</color>
+    <color name="ball_color_2_end">#Ebd232</color>
+    <color name="ball_color_2_start">#FC946E</color>
+    <color name="ball_color_3_start">#87C76F</color>
+    <color name="ball_color_4_end">#EEFCCF</color>
+    <color name="ball_color_4_start">#E7B2EF</color>
+    <color name="ball_color_5_start">#8CE0DF</color>
+    <color name="ball_color_6_end">#1E2027</color>
+    <color name="ball_color_6_start">#353645</color>
+    <color name="ball_color_7_start">#FDA7FF</color>
+    <color name="ball_color_8_start">#899FFE</color>
+    <color name="ball_color_9_end">#FFD996</color>
+    <color name="ball_color_9_start">#FC946E</color>
+    <color name="btnBorderColor">#B7B5FC</color>
+    <color name="color1">#FF6347</color>
+    <color name="color2">#FFD700</color>
+    <color name="color3">#32CD32</color>
+    <color name="colorScheme">#00C853</color>
+    <color name="light_mauve_background">#C395FC</color>
+    <color name="primaryColor">#006064</color>
+    <color name="primary_accent">#246CFD</color>
+    <color name="primary_background">#262A34</color>
+    <color name="subTitleTextColor">#9593A8</color>
+    <dimen name="list_item_spacing">16dp</dimen>
+    <dimen name="list_item_spacing_half">8dp</dimen>
+    <string name="app_name">CleanupTunisia</string>
+    <string name="gcm_defaultSenderId" translatable="false">986857108493</string>
+    <string name="google_api_key" translatable="false">AIzaSyCMNOmSqX7G_O-50UCThU5ja8hbLslo1Kk</string>
+    <string name="google_app_id" translatable="false">1:986857108493:android:3772d8ab0dff08e43c1144</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMNOmSqX7G_O-50UCThU5ja8hbLslo1Kk</string>
+    <string name="google_storage_bucket" translatable="false">cleanuptunisia-3ecf6.firebasestorage.app</string>
+    <string name="login_text">Vous avez déjà un compte? <font color="#00C853"> Connexion</font></string>
+    <string name="message_text">Mieux vous enverrons un code de vérification par email pour veiller votre authenticité.</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="project_id" translatable="false">cleanuptunisia-3ecf6</string>
+    <string name="screen1">Bienvenue sur CleanUp !</string>
+    <string name="screen1desc">Cette application est destinée aux citoyens qui cherchent à maintenir notre ville propre et sainte.</string>
+    <string name="screen2">En tant que citoyen</string>
+    <string name="screen2desc">Vous pouvez utiliser notre application pour signaler les zones de déchets et contribuer à leur nettoyage. </string>
+    <string name="screen3">Photographiez les déchets autour de vous</string>
+    <string name="screen3desc">Nous vous encourageons à signaler leur emplacement aux autorités municipales pour une intervention rapide.</string>
+    <string name="select_city_prompt">Sélectionner une ville</string>
+    <string name="select_municipality_prompt">Sélectionner une municipalité</string>
+    <string name="startDesc">Les employés municipaux travaillent dur pour nettoyer la zone signalée et maintenir notre ville propre.</string>
+    <style name="Base.Theme.CleanupTunisia" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorPrimaryContainer">@android:color/transparent</item>
+        <item name="colorOnPrimary">@color/primary_background</item>
+
+
+        <item name="buttonStyle">@style/CustomButtonStyle</item>
+        <item name="materialButtonStyle">@style/CustomMaterialButtonStyle</item>
+    </style>
+    <style name="CustomButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/ball_color_4_end</item>
+    </style>
+    <style name="CustomMaterialButtonStyle" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="rippleColor">@android:color/transparent</item>
+        <item name="strokeColor">@null</item>
+    </style>
+    <style name="Theme.CleanupTunisia" parent="Base.Theme.CleanupTunisia"/>
+</resources>

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_stats.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_reclamation_detail.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_reclamation_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_navigation.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\item_reclamation.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\item_reclamation.xml"
+    },
+    {
+        "merged": "com.example.cleanuptunisia.app-mergeDebugResources-44:/layout/activity_edit_profile.xml",
+        "source": "com.example.cleanuptunisia.app-main-47:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_waste_type.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_waste_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\item_image.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\slider_screen.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\slider_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\dialog_status_change.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\dialog_status_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_get_started.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_get_started.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\grid_item_image.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\grid_item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\dialog_edit_address.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\dialog_edit_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-mergeDebugResources-44:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\com.example.cleanuptunisia.app-main-47:\\layout\\activity_sign_up.xml"
+    }
+]

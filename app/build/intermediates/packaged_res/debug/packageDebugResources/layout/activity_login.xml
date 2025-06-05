@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/pagebkg"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:context=".SignUpActivity"
+        tools:layout_editor_absoluteY="80dp">
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="340dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_border"
+            android:drawableLeft="@drawable/baseline_person_24"
+            android:drawablePadding="8dp"
+            android:hint="Adresse email"
+            android:textColorHint="#FFFFFF"
+            android:padding="8dp"
+            android:textColor="#FFFFFF"
+            android:textColorHighlight="@color/ball_color_4_end"
+            android:translationY="185dp" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="340dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_border"
+            android:drawableLeft="@drawable/baseline_lock_24"
+            android:drawablePadding="8dp"
+            android:hint="Mot de passe"
+            android:textColorHint="#FFFFFF"
+            android:inputType="textPassword"
+            android:drawableEnd="@drawable/eye_closed"
+            android:padding="8dp"
+            android:textColor="#FFFFFF"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:translationY="188dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Oublié mot de passe ?"
+            android:textSize="14sp"
+            android:textAlignment="center"
+            android:id="@+id/signupText"
+            android:textColor="@color/ball_color_6_start"
+            android:layout_marginBottom="20dp"
+            android:translationY="250dp"/>
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/button_gradient"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="S'IDENTIFIER"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:translationY="200dp"
+            app:cornerRadius="20dp" />
+
+        <Button
+            android:id="@+id/signupButton"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/button2"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="Créer Un Compte"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:translationY="220dp"
+            app:cornerRadius="20dp" />
+
+    </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

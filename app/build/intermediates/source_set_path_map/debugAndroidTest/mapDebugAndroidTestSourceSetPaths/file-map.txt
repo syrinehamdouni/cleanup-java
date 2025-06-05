@@ -1,0 +1,5 @@
+com.example.cleanuptunisia.test.app-core-1.6.1-0 C:\Users\HP\.gradle\caches\8.9\transforms\3baa5229da93eb0b1770161a1db02997\transformed\core-1.6.1\res
+com.example.cleanuptunisia.test.app-androidTest-1 C:\test\app\build\generated\res\resValues\androidTest\debug
+com.example.cleanuptunisia.test.app-mergeDebugAndroidTestResources-2 C:\test\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.cleanuptunisia.test.app-mergeDebugAndroidTestResources-3 C:\test\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.cleanuptunisia.test.app-debugAndroidTest-4 C:\test\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
