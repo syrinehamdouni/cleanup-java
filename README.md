@@ -1,2 +1,3 @@
 ﻿# App_Cleanup-java
-![Logo de mon projet](logo.png)
+![Logo de l'application](images/logo.png)
+
