@@ -1,3 +1,4 @@
 ﻿# App_Cleanup-java
-![Logo de l'application](images/logo.png)
+![Logo](test/app/build/intermediates/packaged_res/debug/packageDebugResources/drawable/logo.png)
+
 
